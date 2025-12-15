@@ -1,5 +1,5 @@
 on: push
-name: Deploy website on push
+name: Publish
 jobs:
   web-deploy:
     name: Deploy
